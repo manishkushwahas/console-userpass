@@ -19,7 +19,7 @@ It is console based program which takes to user a username and password and show
 4. Patience to understand the low level code and High level code
 5. Familiarity with python syntax
 
-# most interesting line of code without this asterick dose not shows
+#### Most interesting line of code without flush() asterick dose not shows
 code: `sys.stdout.flush()`
     - `"".join(buf)` #### it concats the all entered password together.
 
