@@ -21,7 +21,7 @@ It is console based program which takes to user a username and password and show
 
 #### Most interesting line of code without flush() asterick dose not shows
 code: `sys.stdout.flush()`
-    - `"".join(buf)` #### it concats the all entered password together.
+    - `"".join(buf) it concats the all entered password together.`
 
 > Readme Author: Jayprabhakar His profile
 ([Jayprabhakar](https://github.com/Jayprbhakar))
