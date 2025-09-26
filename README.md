@@ -13,8 +13,8 @@ It is console based program which takes to user a username and password and show
 ## To Run this program in your system You Need
 1. Python should installed in your system
 2. Need necessary modules
-   - msvcrt (This is microsof visual c run time py module)
-   - sys (python module for interacting to interpeter and it's environment)
+   - msvcrt (This is microsoft visual c run time py module which help in read keystrokes, write characters, or detect special keys)
+   - sys (python module for interacting to interpreter and it's environment)
 3. IDE my favourite: VS CODE
 4. Patience to understand the low level code and High level code
 5. Familiarity with python syntax
